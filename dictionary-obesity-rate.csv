@@ -1,0 +1,8 @@
+Field Name,Field Description,Example 1,Example 2,Additional Data Details
+Stname,State,Pennsylvania,,
+Tractfips,census tract ,42003010300,42003090200,In this case the census tract codes are preceded by the state and county code (42003XXXXXX)
+2000 Tract,Census tract codes for 2000 - 2010,470500,457100,Because the study years spanned 2006-2010 in some cases the census tracts differed. This is why both are listed.
+2010 Tract,Census tract codes for 2010- 2020,981900,563300,Because the study years spanned 2006-2010 in some cases the census tracts differed. This is why both are listed.
+Municipality,Municipality name,Pittsburgh,Hampton,In cases where the same Municipality is listed more than once use the City Neighborhood to differentiate between the data 
+City Neighborhood,city Neighborhood name,South Oakland,,If the tract is outside of the Pittsburgh City then the Neighborhood will be listed the same as the Municipality
+2006-2010 estimate of obesity,estimated rate of obesity,0.488690884,0.1267053,
